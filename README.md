@@ -16,6 +16,6 @@ convertWikiToText('https://en.m.wikipedia.org/wiki/Banjo')
 ```
 
 ## Preview
-Application below being used for preview is Windows Notepad.
+Application below which is being used for preview is Windows Notepad.
 
 ![image](https://user-images.githubusercontent.com/55078043/176660545-d847c4d7-fa2d-4432-8d66-4fad2befb4bb.png)
