@@ -3,7 +3,7 @@
 ## Overview
 This converts Wikipedia html into txt which make it able to read offline.
 
-Text file will be made and open at the same time right after calling `convertWikiToText`.
+Text file will be made and open at the same time right after calling `convertWikiToText(url: str)`.
 
 ## Setup
 `python -m pip install git+https://github.com/yjg30737/wiki-offline.git --upgrade`
