@@ -1,7 +1,7 @@
 # wiki-offline
 
 ## Overview
-This converts Wikipedia html into txt which make it able to read offline.
+This converts Wikipedia html into txt which makes it able to read offline.
 
 Text file will be made and open at the same time right after calling `convertWikiToText(url: str)`.
 
