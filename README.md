@@ -1,2 +1,19 @@
 # wiki-offline
-convert Wikipedia html into txt which make it able to read offline
+
+## Overview
+This converts Wikipedia html into txt which make it able to read offline.
+
+Text file will be made and open at the same time right after calling `convertWikiToText`.
+
+## Setup
+`python -m pip install git+https://github.com/yjg30737/wiki-offline.git --upgrade`
+
+## Usage
+```python
+from wiki_offline import convertWikiToText
+
+convertWikiToText('https://en.m.wikipedia.org/wiki/Banjo')
+```
+
+## Preview
+![image](https://user-images.githubusercontent.com/55078043/176660545-d847c4d7-fa2d-4432-8d66-4fad2befb4bb.png)
